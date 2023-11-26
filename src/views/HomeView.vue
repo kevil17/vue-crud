@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    <h1>Holaaa</h1>
+    <h1>CRUD with Vue for Users</h1>
   </main>
 </template>
